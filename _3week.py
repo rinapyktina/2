@@ -21,6 +21,3 @@ if __name__ == "__main__":
         print("пятница")
     elif d == 6:
         print("суббота")
-© 2021 GitHub, Inc.
-Terms
-Privacy
